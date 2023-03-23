@@ -1,4 +1,4 @@
-### Hi there 👋
+###  
 
 <!--
 **gastonsantos/gastonsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Soy Gaston Santos ###
+### Soy Gaston Santos👋👋 ###
   
 Soy Estudiante en Tecnicatura En Desarrollo Web (UNLAM)💻, actualmente en búsqueda activa de empleo♨️.
 
