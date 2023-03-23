@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-**julieta96/gastonsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gastonsantos/gastonsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Soy Gaston Santos👋👋 ###
   
-Soy Estudiante en Tecnicatura En Desarrollo Web (UNLAM)💻, actualmente en búsqueda activa de empleo♨️.
+Soy Estudiante de la Tecnicatura En Desarrollo Web (UNLAM)💻, actualmente en búsqueda activa de empleo♨️.
 
 Estoy dispuesto a aprender, adquirir nuevos conocimientos en el ámbito tecnológico y aportar mis skills.
 Me gusta trabajar en equipo y los desafios que me ayudan a ampliar mis conocimientos profesionalmente.
