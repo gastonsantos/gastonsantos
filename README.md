@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Soy Gaston Santos👋👋 ###
   
-Soy Estudiante de la Tecnicatura En Desarrollo Web (UNLAM)💻, actualmente en búsqueda activa de empleo♨️.
+Soy Graduado de la Tecnicatura En Desarrollo Web (UNLAM)💻, actualmente en búsqueda activa de empleo♨️.
 
 Estoy dispuesto a aprender, adquirir nuevos conocimientos en el ámbito tecnológico y aportar mis skills.
 Me gusta trabajar en equipo y los desafios que me ayudan a ampliar mis conocimientos profesionalmente.
