@@ -35,7 +35,8 @@ Soy Graduado de la Tecnicatura En Desarrollo Web (UNLAM)💻, actualmente en bú
 
 Estoy dispuesto a aprender, adquirir nuevos conocimientos en el ámbito tecnológico y aportar mis skills.
 Me gusta trabajar en equipo y los desafios que me ayudan a ampliar mis conocimientos profesionalmente.
-
+Te invito a ver mir Portfolio: 
+https://portfolio-gaston-delta.vercel.apps
 <hr/>
 
 <h3> Tecnologías 👩‍💻: </h3>
