@@ -37,7 +37,7 @@ Estoy dispuesto a aprender, adquirir nuevos conocimientos en el ámbito tecnoló
 Me gusta trabajar en equipo y los desafios que me ayudan a ampliar mis conocimientos profesionalmente.
 <hr/>
 Te invito a ver mir Portfolio: 
-https://portfolio-gaston-d45b3meb9-gastonsantos.vercel.app
+https://portfolio-gaston-zeta.vercel.app
 
 <h3> Tecnologías 👩‍💻: </h3>
 
